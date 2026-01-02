@@ -10,7 +10,7 @@
 
 - :mailbox: Reach me with the links below:
 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/UEDND)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/-MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@uednd.top)&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UE-DND)&nbsp;&nbsp;[![X](https://img.shields.io/badge/-UE_DND-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/UE_DND)
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/UE_DND)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@uednd.top)&nbsp;&nbsp;[![X](https://img.shields.io/badge/-UE_DND-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/UE_DND)&nbsp;&nbsp;[![Notion](https://img.shields.io/badge/-NOTEBOOK-000000?style=for-the-badge&logo=notion&logoColor=white)](https://uednd.notion.site/notebook)
 
 <br>
 
